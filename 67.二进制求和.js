@@ -56,7 +56,8 @@ var addBinary = function (a, b) {
     return anw.reverse().join("")
 };
 
-
+//Your runtime beats 5.22 % of javascript submissions
+//Your memory usage beats 11.11 % of javascript submissions (42.4 MB)
 
 // @lc code=end
 
